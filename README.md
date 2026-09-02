@@ -163,7 +163,7 @@ MIT License
 
 Navid Alizadeh
 
-https://www.linkedin.com/in/navid-alizadeh-vaghaslo
+https://www.linkedin.com/in/navid-alizadeh-vaghasloo
 
 Security Operations Center (SOC)
 
